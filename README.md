@@ -8,3 +8,7 @@ Stay tuned, because I'm going to rock your world.
 *Yeah, yeah. Promises, promises.*
 
 I'm sure that you're on the edge of your seat right now. Don't fall off.
+
+*Hey, why is he talking to himself?*
+
+*I don't know!*
