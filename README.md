@@ -23,7 +23,7 @@ I started this exploration over 20 years ago. Life took over. The project was pu
 
 Recently, I was doing some research in robotics for a personal project, and I came across some robotic programs that are coined sketches. I have always enjoyed pondering words. I'll look them up in the dictionary and the thesaurus, often exploring etymologies and following leads to other words. I ruminated about the use of the word sketch, and when I decided to take up this dusty old project again the word sketch came to mind, because what we're doing here and in any coding project in any programming language is defining sketches.
 
-This leads us to the definition of the new `claxiom notebook` cell type, the [`sketch`](https://www.merriam-webster.com/dictionary/sketch). More later...
+This leads us to the definition of the new `claxiom notebook` cell type, the [`sketch.`](https://www.merriam-webster.com/dictionary/sketch) More later...
 
 
 
